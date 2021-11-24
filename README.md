@@ -40,6 +40,10 @@
 - Парсер вакансий Java для сайта sql.ru
 - Quartz-scheduler, jsoup, JDBC/PostgreSQL, JUnit
 
+Контакты:
+email: himax82@gmail.com
+telegram: @himax82
+
 <!--
 **himax82/himax82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
